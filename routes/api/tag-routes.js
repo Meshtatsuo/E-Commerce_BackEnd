@@ -4,7 +4,6 @@ const {
   Product,
   ProductTag
 } = require('../../models');
-const sequelize = require('../../config/connection');
 
 // The `/api/tags` endpoint
 
