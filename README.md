@@ -2,7 +2,7 @@
 
 Back end example for an e-commerce style site.
 
-<b>Video Overview: </b> [link goes here]
+<b>Video Overview: </b> https://www.youtube.com/watch?v=E7JxlO1uAv8
 
 ## Technology Used
 - Node.JS
